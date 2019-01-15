@@ -1,0 +1,2 @@
+# SMSZork
+Zork for sms
